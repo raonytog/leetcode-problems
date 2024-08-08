@@ -1,2 +1,2 @@
-# leetcode-problems
-sou meio preguicoso mas um dia faco isso eu acho
+# leetcode
+Repository with all leetcode p-set that i've done 
